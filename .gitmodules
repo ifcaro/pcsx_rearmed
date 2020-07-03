@@ -1,6 +1,7 @@
 [submodule "libpicofe"]
 	path = frontend/libpicofe
-	url = git://notaz.gp2x.de/~notaz/libpicofe.git
+	url=https://github.com/ifcaro/libpicofe.git
+	branch = for_psclassic
 [submodule "warm"]
 	path = frontend/warm
 	url = git://notaz.gp2x.de/~notaz/warm.git
